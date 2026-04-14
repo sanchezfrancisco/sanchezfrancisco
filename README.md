@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hey, I'm Frank Sánchez 👋
 
-<!--
-**sanchezfrancisco/sanchezfrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineer specialized in software development, with 2+ years of professional
+experience in the enterprise sector. I'm passionate about technical challenges and
+constantly looking to grow — from simple utilities to complex systems involving
+hardware integration.
 
-Here are some ideas to get you started:
+I'm actively looking to contribute to open source projects of all kinds, and I believe
+collaboration is one of the best ways to level up as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About me
+
+- 🔭 Mainly focused on **backend development**, but open to explore frontend and beyond.
+- ⚙️ Currently diving into **microservices architecture** and **design patterns**.
+- 🏗️ Interested in **software architecture** as a long-term path.
+- 🔩 Curious about projects that bridge **software and hardware**.
+- 🚀 Ambitious, challenge-driven, and always learning.
+
+---
+
+### 🛠️ Tech Stack & Interests
+
+**Experience:**
+- C# · ASP.NET Core
+- Python · Django
+
+**Looking to work with:**
+- Java · Python · .NET · C/C++ · PHP
+
+---
+
+### 🤝 Open Source
+
+I'm at the beginning of my open source journey, but fully committed to it.
+Whether it's fixing bugs, improving docs, or building something from scratch —
+I'm in.
+
+> *"The best way to learn is to build alongside others."*
